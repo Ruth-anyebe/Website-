@@ -1,0 +1,43 @@
+span{
+  color: #e96230;
+}
+
+.p-img{
+  height: 420px;}
+
+.nav-link{
+  color: #e96230;}
+
+.m-img{
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.8);}
+
+.btn-1{
+  background:  #e96230;
+  text-decoration: none;
+}
+
+
+
+.btn-2{
+  text-decoration: none;
+}
+
+.btn-3{
+  background:  #e96230;
+  text-decoration: none;
+}
+
+#p-text{
+  font-size: 15px;
+}
+
+#icon-con{
+  height: 180px;
+}
+
+.bg-orange{
+  background: #ff9900;
+  text:#e96230
+}
